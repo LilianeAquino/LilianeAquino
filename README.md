@@ -8,7 +8,7 @@
 
 💻 Atuo em projetos de ciência de dados, desenvolvimento de software e chatbots<br>
 💻 Atualmente trabalho na HOP<br>
-:robot: Pós-graduanda em Inteligência Artificial e Ciência de Dados<br>
+:robot: Pós-graduada em Inteligência Artificial e Ciência de Dados<br>
 💻 Graduada em Análise e Desenvolvimento de Sistemas<br>
 
 
