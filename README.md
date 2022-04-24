@@ -8,7 +8,7 @@
 
 💻 Atuo em projetos de ciência de dados e desenvolvimento de software<br>
 💻 Atualmente trabalho na HOP DIGITAL como desenvolvedora pleno<br>
-:robot: Pós-graduada em Inteligência Artificial e Ciência de Dados<br>
+:robot: Pós-graduada em Inteligência Artificial e Ciência de Dados :heart:<br>
 💻 Pós-graduanda em Desenvolvimento Web Fullstack<br>
 💻 Graduada em Análise e Desenvolvimento de Sistemas<br>
 
