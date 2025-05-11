@@ -1,4 +1,4 @@
-### Olá! Sou a Liliane 👋
+### Olá! Sou a Liliane Lourença de Aquino 👋
 
 💻 Cientista de Dados - Desenvolvedora 🌎 Belo Horizonte/MG
 
